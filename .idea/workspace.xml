@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75cedcb1-880f-4b7e-a5d7-c2dc435a1e1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/yii2settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/star.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    <list default="true" id="75cedcb1-880f-4b7e-a5d7-c2dc435a1e1e" name="Default Changelist" comment="Add page login.php">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/function.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/function.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/hotelinf.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/hotelinf.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/tours.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/tours.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +59,17 @@
       <workItem from="1661001340136" duration="3051000" />
       <workItem from="1661064357250" duration="1869000" />
       <workItem from="1661425938555" duration="1616000" />
-      <workItem from="1661432711228" duration="1079000" />
+      <workItem from="1661432711228" duration="2743000" />
+      <workItem from="1661436518051" duration="684000" />
     </task>
+    <task id="LOCAL-00001" summary="Add page login.php">
+      <created>1661434980595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661434980595</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +86,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add page login.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add page login.php" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
