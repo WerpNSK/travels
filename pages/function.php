@@ -45,3 +45,7 @@ function Registration($l, $p1, $p2, $e)
     }
     return true;
 }
+
+function Login($l, $p)
+{
+}

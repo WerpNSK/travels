@@ -27,6 +27,18 @@
 
         echo '<h1>' . $hotel . '</h1>';
         echo '<div>' . $info;
+        for ($i = 0; $i < $stars; $i++) {
+            echo '<img height="30" width="30" src="../images/star.jpg">';
+        }
+        echo '</div>';
+        echo '<div class="row"><div class="col-md-6 texrcenter">';
+        echo '<ul id="gallery">';
+        $select = 'select imagepath from images where hotelid = ' . $id . ";";
+        $q = mysqli_query($con, $select);
+        while ($arr = mysqli_fetch_array($q)) {
+            echo '<li><img height="200" width="200" src="../' . $arr[0] . '"></li>';
+        }
+        echo '</></div></div>';
     }
     ?>
 </body>
