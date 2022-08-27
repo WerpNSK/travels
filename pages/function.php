@@ -68,6 +68,7 @@
 
         if ($row=mysqli_fetch_array($res))
         {
+            $_SESSION['id']=$row[0];
             $_SESSION['ruser'] = $log;
             if ($row[6]==1)
             {

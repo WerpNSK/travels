@@ -1,3 +1,9 @@
+<?php
+    if (!isset($_SESSION['radmin']))
+    {
+        exit();
+    }
+?>
 <div class="row">
     <div class="col-sm-6 col-md-6 col-lg-6 left">
         <?php
